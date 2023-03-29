@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oii sou o Victor Eduardo 👋
 
 <!--
 **Victor-17/Victor-17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+<div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Victor-17=anuraghazra&show_icons=true&theme=radical)
+  
+</div>
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
