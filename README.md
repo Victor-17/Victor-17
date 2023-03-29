@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Victor-17&show_icons=true&theme=dracula"/>
-<img heigth="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-17&layout=compact&langs_count=16&theme=dracula"/> 
+<img heigth="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-17&layout=compact&langs_count=16&theme=dracula"/> 
 </div>
 
 
