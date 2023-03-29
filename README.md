@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 <div>
-<img  src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=Victor-17&show_icons=true&theme=dracula"/>
   
 </div>
 
