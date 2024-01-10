@@ -7,7 +7,6 @@
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-17&layout=compact&langs_count=16&theme=dracula"/> 
   <img  src=" https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-17&layout=compact"/>
 </div>
-https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact
 
 
 <div style="display: inline_block"><br>
